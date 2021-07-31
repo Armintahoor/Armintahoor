@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Armintahoor
+- 👀 I’m interested coding in javascript
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on big projects
+- 📫 How to reach me no ways for now
